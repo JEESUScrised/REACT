@@ -1,5 +1,0 @@
-.hero{background:linear-gradient(135deg,#F8F9FA,#E9F7FF)}
-.grid{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center}
-.card{height:420px;border-radius:20px;background:linear-gradient(135deg,#4A90E2,#7B68EE);box-shadow:0 6px 24px rgba(0,0,0,.1)}
-@media(max-width:960px){.grid{grid-template-columns:1fr}}
-
