@@ -1,0 +1,8 @@
+.hero{background:#F4F9E2;padding:48px 0}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;align-items:center}
+.title{font-size:32px;font-weight:700;color:#22356F;margin-bottom:12px}
+.desc{color:#22356F;line-height:1.6}
+.illustration{height:320px;display:flex;align-items:flex-start;justify-content:flex-end;position:relative}
+.dinoImg{max-height:320px;width:auto;object-fit:contain}
+@media(max-width:900px){.grid{grid-template-columns:1fr}}
+
